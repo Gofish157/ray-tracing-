@@ -1,0 +1,3 @@
+/home/anthony/CLionProjects/ray_traice/cmake-build-debug/CMakeFiles/ray_traice.dir
+/home/anthony/CLionProjects/ray_traice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anthony/CLionProjects/ray_traice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
